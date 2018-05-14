@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Coding++
 
-You can use the [editor on GitHub](https://github.com/he44/he44.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the place where I posted my notes and thoughts about computer engineering. The contents vary a lot: my reading notes, logs on how I set up my working environment as well as my project descriptios.
+
+You can find all my posted projects on [my GitHub page](https://github.com/he44).
+
+The [editor on GitHub](https://github.com/he44/he44.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
