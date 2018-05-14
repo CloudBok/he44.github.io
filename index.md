@@ -8,7 +8,7 @@ The [editor on GitHub](https://github.com/he44/he44.github.io/edit/master/index.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Javascript Basics]({% post_url 2018-05-13-Javascript Foundations %})
+[Javascript Basics](2018-05-13-Javascript Foundations.md)
 
 ### Markdown
 
