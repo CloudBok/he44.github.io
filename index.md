@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Javascript Basics](2018-05-13-Javascript Foundations.md)
 
+[test notes](/test/test.md)
 
 ### Jekyll Themes
 
