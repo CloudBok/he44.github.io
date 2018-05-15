@@ -2,7 +2,7 @@
 
 #### Materials and References
 
-- Video Tutorial I followed: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
+- [Video Tutorial I followed](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 #### 1.2 p5.js Workflow
 
@@ -108,7 +108,7 @@
 
 - argument needed: x, y, width, height
 
-- Reference: https://p5js.org/reference/
+- [Reference](https://p5js.org/reference/)
 
 ##### Colors
 
@@ -150,7 +150,7 @@ function draw() {
 
 Solution: get the inspecting console out, then right click on the Refresh button, choose "empty cache and hard reload"
 
-Reference: https://stackoverflow.com/questions/29105729/local-server-not-reflecting-updated-files
+[Reference](https://stackoverflow.com/questions/29105729/local-server-not-reflecting-updated-files)
 
 ##### Declaring Variables
 
