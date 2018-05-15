@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Javascript Basics](2018-05-13-Javascript Foundations.md)
 
-[AI notes 1](./articles/2018-01-17-org-notes.md)
+[AI notes 1](/articles/2018-01-17-org-notes.md)
 
 ### Markdown
 
