@@ -12,8 +12,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [AI notes 1](./articles/2018-01-16-AI-lec1-notes.html)
 
-[org Notes](./articles/2018-01-17-org-notes.md)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
